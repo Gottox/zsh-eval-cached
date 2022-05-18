@@ -20,5 +20,5 @@ eval_cached \
  'cat $HOME/.cargo/env'
 
 # clean the cache with:
-# rm "${TMPDIR-/tmp}/zsh_eval_cache.*
+# rm "${TMPDIR-/tmp}"/zsh_eval_cache.*
 ```
